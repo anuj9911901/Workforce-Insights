@@ -1,0 +1,121 @@
+EmployeeID,Age,Gender,Department,EducationLevel,JobRole,MonthlyIncome,JobSatisfaction,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,Attrition
+1,50,Male,Sales,Bachelor,Executive,3717,1,1,6,1,1
+2,36,Male,Sales,High School,Executive,5782,1,1,1,7,1
+3,29,Male,Finance,PhD,Executive,7946,2,4,5,9,0
+4,42,Male,IT,High School,Engineer,14769,2,4,9,4,0
+5,40,Male,Operations,High School,Clerk,8486,3,2,12,6,1
+6,44,Male,IT,Master,Analyst,11335,4,4,14,9,1
+7,32,Female,Finance,Bachelor,Engineer,7980,3,3,2,1,0
+8,32,Male,Finance,PhD,Executive,14332,1,4,17,7,0
+9,45,Female,IT,Master,Manager,10266,3,3,14,1,0
+10,57,Male,Finance,High School,Executive,7491,4,2,13,3,0
+11,45,Male,IT,Bachelor,Clerk,10192,2,2,9,0,1
+12,24,Male,HR,Master,Executive,14130,4,2,15,4,1
+13,43,Female,IT,Bachelor,Manager,8588,4,2,15,8,1
+14,23,Female,IT,Master,Clerk,10651,4,2,11,0,0
+15,45,Female,Finance,Bachelor,Executive,6636,2,3,16,8,0
+16,51,Female,Finance,High School,Clerk,14414,4,3,17,7,1
+17,59,Male,Sales,PhD,Analyst,4167,4,2,4,5,1
+18,23,Female,Sales,High School,Analyst,13808,4,4,1,6,0
+19,42,Male,HR,PhD,Executive,4062,1,1,8,2,1
+20,54,Male,Sales,Bachelor,Clerk,5156,4,2,17,0,1
+21,33,Female,IT,Master,Manager,10860,2,4,3,4,0
+22,43,Female,Finance,High School,Executive,8161,4,1,15,1,0
+23,46,Female,Sales,PhD,Analyst,8305,4,2,15,4,0
+24,48,Female,Sales,High School,Analyst,14174,2,2,14,7,0
+25,49,Female,HR,PhD,Executive,9541,4,3,14,8,0
+26,37,Female,HR,High School,Clerk,14486,2,1,2,1,1
+27,36,Female,IT,PhD,Analyst,7729,4,1,13,2,0
+28,24,Female,Finance,PhD,Clerk,12348,2,4,14,2,0
+29,58,Male,HR,Bachelor,Analyst,10330,4,3,19,0,0
+30,28,Female,Sales,PhD,Analyst,8334,4,3,7,7,0
+31,42,Female,Finance,Bachelor,Engineer,11924,1,3,3,5,1
+32,30,Male,Finance,PhD,Analyst,7330,1,3,15,7,0
+33,39,Female,Sales,Master,Manager,11010,4,1,14,8,0
+34,25,Male,HR,Master,Executive,9801,4,1,11,4,1
+35,46,Male,Sales,Master,Executive,7846,3,2,15,2,0
+36,35,Female,Finance,PhD,Clerk,9731,2,2,13,4,0
+37,30,Male,Operations,Bachelor,Analyst,10241,3,3,18,4,0
+38,47,Male,Operations,Bachelor,Manager,3953,1,3,6,4,0
+39,23,Male,IT,PhD,Clerk,5539,1,3,3,2,0
+40,41,Male,Sales,Master,Engineer,10056,1,2,19,9,0
+41,49,Female,Sales,Master,Clerk,14516,1,4,15,3,0
+42,28,Male,IT,Bachelor,Clerk,14493,4,4,5,8,1
+43,29,Female,IT,Master,Analyst,4542,1,2,10,9,0
+44,56,Male,IT,High School,Engineer,8293,4,2,7,8,0
+45,35,Male,Finance,Bachelor,Clerk,4191,4,2,17,1,0
+46,38,Male,Sales,Master,Manager,9313,1,2,7,7,0
+47,57,Male,Finance,Bachelor,Manager,14185,1,2,12,7,0
+48,25,Female,IT,High School,Executive,9938,2,2,17,6,0
+49,23,Female,Sales,Bachelor,Engineer,5681,3,3,13,7,1
+50,27,Male,Finance,Bachelor,Engineer,12409,1,3,4,2,0
+51,25,Male,Finance,Bachelor,Executive,4540,2,3,10,5,0
+52,50,Female,IT,Bachelor,Clerk,9172,2,3,3,0,0
+53,39,Male,Sales,High School,Engineer,14428,3,2,9,6,1
+54,47,Male,IT,PhD,Manager,8541,4,4,13,0,0
+55,55,Male,Sales,Bachelor,Manager,13578,1,1,18,8,0
+56,31,Female,Operations,Bachelor,Analyst,14911,3,2,15,0,0
+57,57,Female,HR,Master,Engineer,12580,1,1,4,0,1
+58,35,Female,HR,Bachelor,Clerk,13048,2,4,15,6,0
+59,52,Male,HR,Master,Executive,4365,2,3,2,1,1
+60,36,Male,IT,PhD,Executive,11691,4,4,15,4,0
+61,29,Female,Operations,High School,Clerk,12872,2,2,8,7,0
+62,35,Female,Sales,High School,Analyst,11702,2,3,8,7,0
+63,44,Female,Finance,PhD,Executive,10494,3,2,17,2,0
+64,42,Female,Sales,High School,Engineer,7312,1,3,12,6,0
+65,37,Male,Finance,PhD,Analyst,4324,1,1,19,2,0
+66,39,Female,Sales,PhD,Engineer,12347,3,1,10,5,1
+67,45,Male,Operations,PhD,Manager,13019,4,1,9,5,0
+68,47,Female,Finance,High School,Analyst,6141,1,4,5,2,0
+69,46,Male,IT,Master,Executive,10419,2,2,6,6,0
+70,50,Female,Sales,PhD,Analyst,6486,1,4,2,2,0
+71,36,Female,Sales,Bachelor,Analyst,4810,2,1,13,7,0
+72,22,Female,Finance,High School,Analyst,9588,4,2,6,9,0
+73,46,Female,IT,PhD,Analyst,5923,3,1,5,3,0
+74,28,Male,IT,PhD,Engineer,8301,1,4,1,0,1
+75,30,Female,Operations,Bachelor,Manager,13406,3,4,6,3,1
+76,45,Male,IT,Master,Clerk,7186,1,4,6,6,0
+77,22,Male,IT,Master,Analyst,11905,2,1,16,3,0
+78,29,Male,IT,Master,Executive,8977,3,2,4,5,0
+79,45,Male,HR,PhD,Analyst,14794,1,2,11,8,0
+80,32,Female,Operations,PhD,Executive,14714,2,1,9,0,0
+81,38,Male,Sales,PhD,Engineer,7268,3,2,3,4,0
+82,29,Male,Finance,High School,Executive,7748,3,1,19,6,1
+83,56,Male,Sales,Bachelor,Clerk,7849,1,2,8,0,0
+84,56,Female,Operations,PhD,Manager,12435,1,3,5,3,0
+85,54,Female,Finance,Bachelor,Executive,6709,1,3,4,5,0
+86,26,Female,Operations,Bachelor,Executive,12273,2,4,6,1,0
+87,49,Female,IT,Master,Manager,9619,1,3,2,9,0
+88,28,Male,Finance,High School,Clerk,11647,3,3,11,4,0
+89,30,Male,IT,PhD,Analyst,12086,3,3,4,9,0
+90,29,Female,Sales,Master,Executive,12576,1,1,15,0,1
+91,33,Male,Sales,Master,Manager,13150,1,3,6,5,0
+92,55,Male,Finance,PhD,Engineer,6072,4,3,17,5,0
+93,54,Male,Finance,Bachelor,Manager,9530,3,4,6,3,0
+94,44,Female,Operations,Master,Engineer,13188,2,3,19,7,0
+95,45,Female,Operations,Bachelor,Clerk,3504,4,3,2,3,0
+96,58,Male,IT,High School,Analyst,4214,1,2,15,7,1
+97,56,Female,Finance,Bachelor,Manager,4531,1,4,11,7,1
+98,43,Female,Sales,High School,Executive,14632,3,4,8,4,1
+99,48,Female,Operations,Bachelor,Clerk,10576,1,4,19,3,0
+100,56,Female,Operations,Master,Manager,3823,2,4,13,1,0
+101,22,Female,Sales,Master,Executive,3928,3,4,12,2,0
+102,56,Male,Operations,High School,Manager,8029,1,4,5,2,0
+103,58,Female,IT,PhD,Engineer,3133,3,1,6,3,1
+104,35,Male,Finance,High School,Manager,5105,1,3,4,3,0
+105,24,Male,Sales,High School,Manager,6627,1,4,19,9,0
+106,22,Female,Finance,Bachelor,Manager,9316,1,3,1,4,0
+107,26,Male,Operations,Bachelor,Clerk,4852,2,3,17,3,0
+108,47,Male,Operations,High School,Manager,7910,2,1,12,9,0
+109,35,Male,Sales,Master,Executive,7175,3,4,15,7,0
+110,48,Female,IT,Bachelor,Engineer,14125,1,2,1,5,0
+111,30,Female,HR,PhD,Engineer,14476,1,1,14,5,1
+112,36,Male,Sales,Bachelor,Manager,14003,2,2,6,7,1
+113,36,Female,HR,Bachelor,Clerk,8348,1,3,5,6,0
+114,47,Female,HR,PhD,Clerk,12442,2,3,11,9,0
+115,34,Female,IT,High School,Executive,14704,1,1,4,9,0
+116,53,Female,HR,PhD,Manager,9190,3,1,13,7,0
+117,53,Male,HR,High School,Engineer,4256,1,2,11,1,0
+118,25,Male,IT,High School,Clerk,6376,1,4,3,8,0
+119,51,Female,HR,High School,Manager,8645,4,2,1,0,0
+120,58,Female,HR,PhD,Clerk,6486,2,1,6,7,0
